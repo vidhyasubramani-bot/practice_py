@@ -57,7 +57,10 @@ m2=int(input())
 m3=int(input())
 print("average:",m1+m2+m3/3)
 """
+
+"""
 minutes=int(input("enter the minutes:"))
 hours=minutes//60
 remaining_minutes=minutes%60
 print(hours,"hours",remaining_minutes,"minutes")
+"""
